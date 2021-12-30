@@ -16,14 +16,11 @@ void setup(){
 	//2 seconds before it starts
 	Serial.begin(9600);
 	delay(2000);
-	Serial.println("Start");
-	setup_scan();
 }
 
 
 
 void loop(){
 
-	start_scan();
 
 }
