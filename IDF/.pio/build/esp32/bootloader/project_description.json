@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/kentagent/.platformio/packages/framework-espidf/components/bootloader/subproject",
+    "build_dir":          "/home/kentagent/Document/kul/ExamplePIOESP32/IDF/.pio/build/esp32/bootloader",
+    "config_file":        "/home/kentagent/Document/kul/ExamplePIOESP32/IDF/sdkconfig.esp32",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "4.3.1",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/kentagent/.platformio/packages/framework-espidf/components/efuse/Kconfig;/home/kentagent/.platformio/packages/framework-espidf/components/esp32/Kconfig;/home/kentagent/.platformio/packages/framework-espidf/components/esp_common/Kconfig;/home/kentagent/.platformio/packages/framework-espidf/components/esp_system/Kconfig;/home/kentagent/.platformio/packages/framework-espidf/components/log/Kconfig;/home/kentagent/.platformio/packages/framework-espidf/components/newlib/Kconfig;/home/kentagent/.platformio/packages/framework-espidf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/kentagent/.platformio/packages/framework-espidf/components/bootloader/Kconfig.projbuild;/home/kentagent/.platformio/packages/framework-espidf/components/esptool_py/Kconfig.projbuild;/home/kentagent/.platformio/packages/framework-espidf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/kentagent/.platformio/packages/framework-espidf/components/bootloader", "/home/kentagent/.platformio/packages/framework-espidf/components/bootloader_support", "/home/kentagent/.platformio/packages/framework-espidf/components/efuse", "/home/kentagent/.platformio/packages/framework-espidf/components/esp32", "/home/kentagent/.platformio/packages/framework-espidf/components/esp_common", "/home/kentagent/.platformio/packages/framework-espidf/components/esp_hw_support", "/home/kentagent/.platformio/packages/framework-espidf/components/esp_rom", "/home/kentagent/.platformio/packages/framework-espidf/components/esp_system", "/home/kentagent/.platformio/packages/framework-espidf/components/esptool_py", "/home/kentagent/.platformio/packages/framework-espidf/components/hal", "/home/kentagent/.platformio/packages/framework-espidf/components/log", "/home/kentagent/.platformio/packages/framework-espidf/components/bootloader/subproject/main", "/home/kentagent/.platformio/packages/framework-espidf/components/bootloader/subproject/components/micro-ecc", "/home/kentagent/.platformio/packages/framework-espidf/components/newlib", "/home/kentagent/.platformio/packages/framework-espidf/components/partition_table", "/home/kentagent/.platformio/packages/framework-espidf/components/soc", "/home/kentagent/.platformio/packages/framework-espidf/components/spi_flash", "/home/kentagent/.platformio/packages/framework-espidf/components/xtensa", "" ]
+}
