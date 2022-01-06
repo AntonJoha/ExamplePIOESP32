@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/kentagent/Document/kul/ExamplePIOESP32/IDF/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+EXAMPLE_ESP_WIFI_PASS	src/main.c	/^#define EXAMPLE_ESP_WIFI_PASS /;"	d	file:
+EXAMPLE_ESP_WIFI_SSID	src/main.c	/^#define EXAMPLE_ESP_WIFI_SSID /;"	d	file:
+EXAMPLE_MAX_STA_CONN	src/main.c	/^#define EXAMPLE_MAX_STA_CONN /;"	d	file:
+IDF	CMakeLists.txt	/^project(IDF)$/;"	p
+TAG	src/main.c	/^static const char *TAG = "wifi softAP";$/;"	v	typeref:typename:const char *	file:
+app_main	src/main.c	/^void app_main()$/;"	f	typeref:typename:void
+board	platformio.ini	/^board = esp32dev$/;"	k	section:env:esp32
+env:esp32	platformio.ini	/^[env:esp32]$/;"	s
+framework	platformio.ini	/^framework = espidf$/;"	k	section:env:esp32
+monitor_speed	platformio.ini	/^monitor_speed = 115200$/;"	k	section:env:esp32
+platform	platformio.ini	/^platform = espressif32$/;"	k	section:env:esp32
+tags	Makefile	/^tags: * $/;"	t
+wifi_event_handler	src/main.c	/^static void wifi_event_handler(void* arg, esp_event_base_t event_base,$/;"	f	typeref:typename:void	file:
+wifi_init_softap	src/main.c	/^void wifi_init_softap()$/;"	f	typeref:typename:void
