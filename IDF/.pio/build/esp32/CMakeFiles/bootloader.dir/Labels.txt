@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/kentagent/Documents/kul/ExamplePIOESP32/IDF/.pio/build/esp32/CMakeFiles/bootloader
+/home/kentagent/Documents/kul/ExamplePIOESP32/IDF/.pio/build/esp32/CMakeFiles/bootloader.rule
+/home/kentagent/Documents/kul/ExamplePIOESP32/IDF/.pio/build/esp32/CMakeFiles/bootloader-complete.rule
+/home/kentagent/Documents/kul/ExamplePIOESP32/IDF/.pio/build/esp32/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/kentagent/Documents/kul/ExamplePIOESP32/IDF/.pio/build/esp32/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/kentagent/Documents/kul/ExamplePIOESP32/IDF/.pio/build/esp32/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/kentagent/Documents/kul/ExamplePIOESP32/IDF/.pio/build/esp32/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/kentagent/Documents/kul/ExamplePIOESP32/IDF/.pio/build/esp32/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/kentagent/Documents/kul/ExamplePIOESP32/IDF/.pio/build/esp32/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/kentagent/Documents/kul/ExamplePIOESP32/IDF/.pio/build/esp32/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
