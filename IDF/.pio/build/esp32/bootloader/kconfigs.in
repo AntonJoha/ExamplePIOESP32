@@ -1,7 +1,0 @@
-source "/home/kentagent/.platformio/packages/framework-espidf/components/efuse/Kconfig"
-source "/home/kentagent/.platformio/packages/framework-espidf/components/esp32/Kconfig"
-source "/home/kentagent/.platformio/packages/framework-espidf/components/esp_common/Kconfig"
-source "/home/kentagent/.platformio/packages/framework-espidf/components/esp_system/Kconfig"
-source "/home/kentagent/.platformio/packages/framework-espidf/components/log/Kconfig"
-source "/home/kentagent/.platformio/packages/framework-espidf/components/newlib/Kconfig"
-source "/home/kentagent/.platformio/packages/framework-espidf/components/spi_flash/Kconfig"
